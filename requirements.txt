@@ -1,0 +1,9 @@
+# EasySQL Inventory Manager
+# Requirements file for pip
+
+# No external pip packages required.
+# Application uses only the Python Standard Library.
+
+# Note:
+# On Linux you may need to install tkinter separately via your system package manager:
+#   sudo apt install python3-tk
